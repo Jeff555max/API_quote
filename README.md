@@ -1,2 +1,2 @@
 # API_quote
- Случайные цитаты
+ Случайные цитаты из https://api.quotable.io/random
