@@ -27,6 +27,7 @@ HTTP-клиент: Requests
 git clone https://github.com/ваш-username/random-quote-generator.git
 
 cd random-quote-generator
+
 2. Создание виртуального окружения
 
 
