@@ -24,12 +24,9 @@ HTTP-клиент: Requests
 📦 Установка и запуск
 1. Клонирование репозитория
 
-git clone https://github.com/ваш-username/random-quote-generator.git
-
-cd random-quote-generator
+https://github.com/Jeff555max/API_quote.git
 
 2. Создание виртуального окружения
-
 
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
